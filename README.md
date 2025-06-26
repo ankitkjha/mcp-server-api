@@ -6,6 +6,13 @@ git clone <https://github.com/ankitkjha/mcp-server-api.git>
 
 cd mcp-server-api
 
+Install uv package
+windows
+powershell -ExecutionPolicy ByPass -c "irm <https://astral.sh/uv/install.ps1> | iex"
+
+macos/linux
+curl -LsSf <https://astral.sh/uv/install.sh> | sh
+
 Create virtual environment
 
 uv venv
