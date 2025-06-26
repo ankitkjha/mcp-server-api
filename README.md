@@ -1,6 +1,6 @@
 # MCP Server
 
-MCP Server to integrate with Weather API and connect to Claude Desktop.\
+MCP Server to integrate with Weather API and connect to Claude Desktop.
 
 git clone <https://github.com/ankitkjha/mcp-server-api.git>
 
