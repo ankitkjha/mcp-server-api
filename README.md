@@ -24,13 +24,20 @@ curl -LsSf <https://astral.sh/uv/install.sh> | sh
 
 ### 3. Create and Activate Virtual Environment
 
-Create Virtual Environment
+### Create Virtual Environment
+
 uv init
+
 uv venv
-Activate Virtual Environment
-macOS/Linux
+
+### Activate Virtual Environment
+
+### macOS/Linux
+
 source .venv/bin/activate
-Windows
+
+### Windows
+
 .venv\Scripts\activate
 
 ### 4. Install Required Dependencies
